@@ -1,0 +1,30 @@
+{
+	"name": "marbles",
+	"version": "4.0.0",
+	"description": "A demonstration Node.js web application on Hyperledger Fabric.fabric-sdk-node",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"async": "latest",
+		"bufferutil": "latest",
+		"compression": "latest",
+		"cookie-parser": "latest",
+		"cors": "latest",
+		"express": "latest",
+		"express-session": "latest",
+		"fabric-ca-client": "latest",
+		"fabric-client": "latest",
+		"grpc": "latest",
+		"pug": "latest",
+		"serve-static": "latest",
+		"utf-8-validate": "latest",
+		"winston": "2.4.*",
+		"ws": "1.1.5"
+	},
+	"engines": {
+		"node": "^6.2.0"
+	},
+	"license": "Apache-2.0"
+}
