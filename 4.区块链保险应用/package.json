@@ -1,0 +1,19 @@
+{
+  "name": "build-blockchain-insurance-app",
+  "version": "1.0.0",
+  "description": "*Read this in other languages: [中国語](README-cn.md),[日本語](README-ja.md).*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IBM/build-blockchain-insurance-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IBM/build-blockchain-insurance-app/issues"
+  },
+  "homepage": "https://github.com/IBM/build-blockchain-insurance-app#readme"
+}
