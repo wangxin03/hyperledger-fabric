@@ -90,7 +90,7 @@ npm -g install npm@6.9.0   //升级npm到6.9.0
 
 安装成功：
 
-<img src="../../../../AppData/Roaming/Typora/typora-user-images/image-20200817175032184.png" alt="image-20200817175032184" style="zoom:50%;" />
+<img src="https://i.loli.net/2020/08/19/IUJOvix2VednM4N.png" alt="image-20200817175032184" style="zoom:50%;" />
 
 **2、设置docker**
 
@@ -419,7 +419,7 @@ node issue.js
 
 发布成功：
 
-![image-20200817235512916](../../../../AppData/Roaming/Typora/typora-user-images/image-20200817235512916.png)
+![image-20200817235512916](https://i.loli.net/2020/08/19/IcWF7YvwR3BMaDr.png)
 
 
 
